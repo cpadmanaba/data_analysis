@@ -1,2 +1,5 @@
 # data_analysis
-This is my notes on data analysis.
+This repository contain my notes on practical data analysis by using Python scripts.
+
+
+-Chebron Padmanaba
