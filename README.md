@@ -4,4 +4,4 @@ This repository contain my notes on practical data analysis by using Python scri
 
 
 
--Chebron Padmanaba\ncpadmanaba@hotmail.com
+-Chebron Padmanaba (cpadmanaba@hotmail.com)
