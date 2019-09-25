@@ -2,6 +2,6 @@
 This repository contain my notes on practical data analysis by using Python scripts.
 
 
--Chebron Padmanaba
 
-cpadmanaba@hotmail.com
+
+-Chebron Padmanaba\ncpadmanaba@hotmail.com
